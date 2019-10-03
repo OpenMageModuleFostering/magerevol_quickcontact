@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Magerevol_Quickcontact",
+    "name": "openmage-module-fostering\/magerevol_quickcontact",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Quickcontact is a CAPTCHA enabled contact form that you can embed anywhere in page.",
     "authors": [
